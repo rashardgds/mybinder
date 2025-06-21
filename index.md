@@ -11,6 +11,7 @@ mathjax: true
     <a href="https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014854/06_04_GEDI_ICESat2_Video_FINAL.mp4">download it</a>
     and watch it with your favorite video player!
   </video>
+  
 @blackgirlscode how you guys doing, i had a good session today at [LilTokyO](https://www.youtube.com/watch?v=NduNi9A_JV4)
 
 # CALiFORNiALiNUX:LiTTLEToKYO+NOCART
