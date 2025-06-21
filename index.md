@@ -5,6 +5,22 @@ mathjax: true
 # Currently Compiling 
 `jekyll.version`  {{ jekyll.version }}
 
+# From Space to Soil: How NASA Sees Forests
+<video playsinline  controls src="https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014854/06_04_GEDI_ICESat2_Video_FINAL.webm" poster="https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014854/06_04_GEDI_ICESat2_Video_FINAL.00100_print.jpg">
+    Sorry, your browser doesn't support embedded videos, but don't worry, you can
+    <a href="https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014854/06_04_GEDI_ICESat2_Video_FINAL.mp4">download it</a>
+    and watch it with your favorite video player!
+  </video>
+@blackgirlscode how you guys doing, i had a good session today at [LilTokyO](https://www.youtube.com/watch?v=NduNi9A_JV4)
+
+# CALiFORNiALiNUX:LiTTLEToKYO+NOCART
+[pCuriosity Postcard](https://svs.gsfc.nasa.gov/31355/) @nasa-jpl 
+<iframe src="https://archive.org/embed/californialinuxlittletokyo_n_nocart" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![image](https://github.com/user-attachments/assets/337d902e-1166-4873-8ed1-d666705d9c36)
+![image](https://github.com/user-attachments/assets/ac26fbbd-4ee1-4aed-8739-01491870ba85)
+
+
 [Disclosure with KRS-ONE - 30 Minutes of Truth](https://www.youtube.com/watch?app=desktop&v=HZstt8J8R7E) [Rhyme and Reason (1997) Rappers and Cops `excerpt`](https://youtu.be/9sYzfk0J0Yw?t=126)[Tupac Talks Donald Trump & Greed in America in 1992 Interview @whitehouse @nasa-jpl @nasa](https://youtu.be/GL-ZoNhUFmc) [The Show Documentary (1995)](https://youtu.be/YL18g4yHVYY) [Reaching Out: KRS-ONE 07-26-2023](https://www.youtube.com/watch?v=C9nX0gRjpZc) [Full Interview: Tupac Outside Courthouse, N.Y. - November 29, 1994 ](https://youtu.be/o9j8fs6SSfc?t=18) [Tupac on Growing Up Poor, His Rise to Fame & His Future](https://youtu.be/GpPbYGJRg0Q) [KRS ONE - Power Of The Mind ](https://youtu.be/-_kQc2HTLAU) [KRS One Hip Hop Lecture Come Get Some Hip-Hop Knowledge](https://www.youtube.com/watch?v=H8ddsJwz7N4) [
 2pac talking about his belief in God and religion](https://youtu.be/MnmLl6Fm1MM) [Tupac REVOLUTIONARY SPEECH (FULL) (RARE LEAK) Indiana Black Expo1993](https://youtu.be/nOTa1wQJVrM) [Biggie’s Very Last Interview On Tupac’s Murder & Meaning Of “Life After Death” ](https://youtu.be/Rk6Bn3vsAsQ) [Rhyme & Reason [Original Soundtrack] 1997](https://youtu.be/VKXLGeWeGTA)
 [Why Drake Suing Over Kendrick Lamar’s ‘Not Like Us’ Is The Most Diabolical Moment In Rap History: A Cultural Breakdown](https://atlantadailyworld.com/2025/01/17/why-drake-suing-over-kendrick-lamars-not-like-us-is-the-most-diabolical-moment-in-rap-history-a-cultural-breakdown/) @nasa-jpl those guys were really goin at i on the [#blutoothoffame](https://www.youtube.com/watch?v=URU-4Yi0TsE) as well ["Tupac Shakur In His Own Words" MTV News 1997](https://youtu.be/tHOrL-qcwRU)
