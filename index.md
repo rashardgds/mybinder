@@ -5,6 +5,12 @@ mathjax: true
 # Currently Compiling 
 `jekyll.version`  {{ jekyll.version }}
 
+
+<blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316"><a href="https://www.reddit.com/r/Skinpicking/comments/1ljj4vz/yuppieshitholepopstar_side_effects_its_started/">YuppieShitholePopStar side effects. its started with her... its soft ammunition that gets puss in it</a><br> by<a href="https://www.reddit.com/user/Dizzy-Decision-2115/">u/Dizzy-Decision-2115</a> in<a href="https://www.reddit.com/r/Skinpicking/">Skinpicking</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+
+![image](https://github.com/user-attachments/assets/c51a3e48-956c-49b4-92e2-3e2e4661df0d)
+![image](https://github.com/user-attachments/assets/c4405d29-f6a1-4331-86b2-7fd6ba5a9597)
+
 # From Space to Soil: How NASA Sees Forests
 <video playsinline  controls src="https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014854/06_04_GEDI_ICESat2_Video_FINAL.webm" poster="https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014854/06_04_GEDI_ICESat2_Video_FINAL.00100_print.jpg">
     Sorry, your browser doesn't support embedded videos, but don't worry, you can
