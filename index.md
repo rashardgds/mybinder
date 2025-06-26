@@ -5,8 +5,40 @@ mathjax: true
 # Currently Compiling 
 `jekyll.version`  {{ jekyll.version }}
 
+[@microsoft Windows11_TELNET](https://www.google.com/search?q=windows+11+telnet&rlz=1C1GCEJ_enUS1026US1168&oq=windows+11+telnet&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDINCAkQABiGAxiABBiKBdIBCTUzNzNqMGoxNagCCLACAfEFFjBo62QU1yjxBRYwaOtkFNco&sourceid=chrome&ie=UTF-8) 
 
+![image](https://github.com/user-attachments/assets/6005b49f-b91b-4595-b169-df032c687db3)
 
+This site [youfiles.herokuapp.com/telnetclient/](https://youfiles.herokuapp.com/telnetclient/) works for [Horizons](https://ssd.jpl.nasa.gov/horizons/app.html#/) @nasa-jpl im impressed that you can do math with it and Ive grown here and dont know what it means departmentally 
+[![Twitter Follow](https://img.shields.io/badge/Social-@lacitycouncil__-blue?style=social&logo=X)](https://twitter.com/@lacitycouncil) : [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass) : [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL)
+[Pwershell ](https://learn.microsoft.com/en-us/powershell/module/packagemanagement/install-package?view=powershellget-2.x) [opensource.microsoft.com/](https://opensource.microsoft.com/) [@PowerShell/PowerShell - PowerShell for every system!](https://github.com/PowerShell/PowerShell) - [PowerShell Documentation](https://learn.microsoft.com/en-us/powershell/)
+
+```shell
+Microsoft Windows [Version 10.0.19045.5965]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\pac>telnet
+'telnet' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\pac>powershell
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Try the new cross-platform PowerShell https://aka.ms/pscore6
+
+PS C:\Users\pac> pkgmgr /iu:"TelnetClient"
+Program 'PkgMgr.exe' failed to run: The operation was canceled by the userAt line:1 char:1
++ pkgmgr /iu:"TelnetClient"
++ ~~~~~~~~~~~~~~~~~~~~~~~~~.
+At line:1 char:1
++ pkgmgr /iu:"TelnetClient"
++ ~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ResourceUnavailable: (:) [], ApplicationFailedException
+    + FullyQualifiedErrorId : NativeCommandFailed
+
+PS C:\Users\pac>
+```
 
 ![image](https://github.com/user-attachments/assets/45d3d3d0-188d-45b8-80a3-33a2734167ad)
 [UNRENDERED_TEXT_FROM *.github.io/coral/](https://thakasartu.github.io/coral/)
