@@ -5,6 +5,90 @@ mathjax: true
 # Currently Compiling 
 `jekyll.version`  {{ jekyll.version }}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VGA_1oftIsI?si=ZWsvfF2aciTQlhKP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### ERROR
+#### The requested URL could not be retrieved [https://sedac.ciesin.columbia.edu/mapping/nysfidss/?page=NYS-FIDSS&views=SVI](https://sedac.ciesin.columbia.edu/mapping/nysfidss/?page=NYS-FIDSS&views=SVI) @columbia @columbia-it @CUL 
+its [rashard](https://rashardmro.github.io/2025/02/11/AboutRashard.html) from @nasa-jpl 
+
+
+my local machine reads
+```
+PS C:\Users\pac> ipconfig.exe /all
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : MPEIC09
+   Primary Dns Suffix  . . . . . . . : lbpa.local
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : lbpa.local
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Intel(R) Ethernet Connection (7) I219-LM
+   Physical Address. . . . . . . . . : E4-54-E8-71-93-2A
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::30ab:2321:ebe1:4218%12(Preferred)
+   IPv4 Address. . . . . . . . . . . : 192.168.161.109(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Default Gateway . . . . . . . . . : 192.168.160.1
+   DHCPv6 IAID . . . . . . . . . . . : 350508264
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2A-CC-D8-AA-E4-54-E8-71-93-2A
+   DNS Servers . . . . . . . . . . . : 192.168.129.12
+                                       192.168.128.12
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+PS C:\Users\pac>
+```
+
+```
+external = 205.154.246.79
+
+IP Details For: 205.154.246.79
+
+Decimal:3449484879
+
+Hostname:lib-03-subnet-79.rdns.cenic.net
+
+ASN:2152
+
+ISP:CENIC
+
+Services:None detected
+
+Country:United States
+
+State/Region:California
+
+City:Los Angeles
+
+Latitude:34.0526 (34° 3′ 9.25″ N)
+
+Longitude:-118.2439 (118° 14′ 38.05″ W)
+```
+i will come back later @nasa @whitehouse in case its something i dont have access to, i sent @spokeo eng a message on [rasardmro/newsstand](https://rashardmro.github.io/2025/06/13/newsstand.html) @nasa-jpl , some java event is crushing my anchor links, but its there
+
+![image](https://github.com/user-attachments/assets/0c62d35c-caf1-4cef-8ed6-be89e5885302)
+
+
+```
+The following error was encountered while trying to retrieve the URL: http://prosedtom2.ciesin.columbia.edu:9082/404
+
+Connection to 129.236.39.61 failed.
+
+The system returned: (113) No route to host
+
+The remote host or network may be down. Please try the request again.
+
+Your cache administrator is webmaster.
+```
+![image](https://github.com/user-attachments/assets/182c44ab-fff3-4d67-b872-9f6e253ede50)
+
+![image](https://github.com/user-attachments/assets/92ff535b-a017-46b8-b25d-ab518c36dc32)
+
 [@microsoft Windows11_TELNET](https://www.google.com/search?q=windows+11+telnet&rlz=1C1GCEJ_enUS1026US1168&oq=windows+11+telnet&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDINCAkQABiGAxiABBiKBdIBCTUzNzNqMGoxNagCCLACAfEFFjBo62QU1yjxBRYwaOtkFNco&sourceid=chrome&ie=UTF-8) 
 
 ![image](https://github.com/user-attachments/assets/6005b49f-b91b-4595-b169-df032c687db3)
