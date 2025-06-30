@@ -5,6 +5,11 @@ mathjax: true
 # Currently Compiling 
 `jekyll.version`  {{ jekyll.version }}
 
+
+@nasa i wanna update everyone @nasa-jpl . . I talked about them aerosol gadgets that spray perfume an said you can talk to [veronica](https://about.me/VeronicaMcGregor), they fancy ppl and i was insecure to say anything bigger 
+[Ell_Wood, dont Forget Tha "Gee" iVe-ee @ajc @linkedin u have a user i cant talk to bc im doxxed on ur service!](https://www.linkedin.com/in/ellwood-g-ivey-jr-36a82113) 
+   [WHAT'S NEXT; A Sense of Taste Online, But First Take a Sniff @nytimes](https://www.nytimes.com/2000/12/21/technology/what-s-next-a-sense-of-taste-online-but-first-take-a-sniff.html) [NASA’s Jet Propulsion Laboratory Announces 3 Personnel Appointments](https://www.jpl.nasa.gov/news/nasas-jet-propulsion-laboratory-announces-3-personnel-appointments/) ... yo! idk what im doing to lose accounts! [@cbsinteractive here are the latest @nasa-jpl media Contacts](https://www.nasa.gov/jet-propulsion-laboratory-media-contacts/) [Max Romero- I Chase The Devil](https://youtu.be/zM4HXY1cLIY?list=RDOgf7D1QscWk) [Musical Youth - Pass The Dutchie](https://www.youtube.com/watch?v=EsyUa63NM1E&list=RDEsyUa63NM1E&start_radio=1) [Steel Pulse - Chant A Psalm](https://youtu.be/h1L3tdNKnuY?list=RDh1L3tdNKnuY) [Single Parent - Buju Banton](https://youtu.be/Ogf7D1QscWk?list=RDOgf7D1QscWk) [Sounds of Blackness - Optimistic](https://youtu.be/6kxI1fcOjSY?si=pawTv6NucqWW6iA2)
+   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VGA_1oftIsI?si=ZWsvfF2aciTQlhKP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### ERROR
