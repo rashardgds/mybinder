@@ -12,7 +12,7 @@ mathjax: true
 [Ell_Wood, dont Forget Tha "Gee" iVe-ee @ajc @linkedin u have a user i cant talk to bc im doxxed on ur service!](https://www.linkedin.com/in/ellwood-g-ivey-jr-36a82113) 
    [WHAT'S NEXT; A Sense of Taste Online, But First Take a Sniff @nytimes](https://www.nytimes.com/2000/12/21/technology/what-s-next-a-sense-of-taste-online-but-first-take-a-sniff.html) [NASA’s Jet Propulsion Laboratory Announces 3 Personnel Appointments](https://www.jpl.nasa.gov/news/nasas-jet-propulsion-laboratory-announces-3-personnel-appointments/) ... yo! idk what im doing to lose accounts! [@cbsinteractive here are the latest @nasa-jpl media Contacts](https://www.nasa.gov/jet-propulsion-laboratory-media-contacts/) [Max Romero- I Chase The Devil](https://youtu.be/zM4HXY1cLIY?list=RDOgf7D1QscWk) [Musical Youth - Pass The Dutchie](https://www.youtube.com/watch?v=EsyUa63NM1E&list=RDEsyUa63NM1E&start_radio=1) [Steel Pulse - Chant A Psalm](https://youtu.be/h1L3tdNKnuY?list=RDh1L3tdNKnuY) [Single Parent - Buju Banton](https://youtu.be/Ogf7D1QscWk?list=RDOgf7D1QscWk) [Sounds of Blackness - Optimistic](https://youtu.be/6kxI1fcOjSY?si=pawTv6NucqWW6iA2) [Love Has Come Around - Donald Byrd 121st Band](https://youtu.be/pEONuPt-0eg?si=zUtf8KRBrbe6IP0b)
 
-@blackgirlscode I hope you guys are ok, i mentioned the z word and another word and all my accounts on @jira trello got hacked! Im sorry im getting interrupted more often than i like and trying to keep boundaries so i dont violate in any direction, I am learning that there is special formatting @nasa-jpl that @whitehouse can employ to make document retrival more redundatnt this works in some compilers but its not consistent : `data="https://ia801809.us.archive.org/19/items/image_20250428_2325/jobsandfirerecoverySimpleScanStation20250630135424.pdf", "https://ia601809.us.archive.org/19/items/image_20250428_2325/jobsandfirerecoverySimpleScanStation20250630135424.pdf" type="application/pdf"` and im using a comma to separate datavalues there is also `class="pdf"` vs `type="application/pdf" ` 
+@blackgirlscode I hope you guys are ok, i mentioned the z word and another word and all my accounts on @jira trello got hacked! Im sorry im getting interrupted more often than i like and trying to keep boundaries so i dont violate in any direction, I am learning that there is special formatting @nasa-jpl that @whitehouse can employ to make document retrival more redundatnt this works in some compilers but its not consistent : `data="https://ia801809.us.archive.org/19/items/image_20250428_2325/jobsandfirerecoverySimpleScanStation20250630135424.pdf", "https://ia601809.us.archive.org/19/items/image_20250428_2325/jobsandfirerecoverySimpleScanStation20250630135424.pdf" type="application/pdf"` and im using a comma to separate datavalues there is also `class="pdf"` vs `type="application/pdf" ` i tried the [`<embed>` ](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/embed) and [`srcset`](https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Responsive_images) but a lot of the technology is so far behind in attribute syntax I have to keep building,m I need to find out the orgin of the html attribute stack, its a language all in itself! @cityoflosangeles, @ucla was the birlthplace of the internet and they used our [NasaRadioInfrastructre](https://strs.grc.nasa.gov/) to move data and we are still stuck while the commercial domains try to illegally squeeze us out for mre marble building takeovers
 
 ```
 <object data="https://ia801809.us.archive.org/19/items/image_20250428_2325/jobsandfirerecoverySimpleScanStation20250630135424.pdf", "https://ia601809.us.archive.org/19/items/image_20250428_2325/jobsandfirerecoverySimpleScanStation20250630135424.pdf" type="application/pdf" width="800" height="500"></object>
@@ -20,8 +20,18 @@ mathjax: true
 
 [`<object>`: The External Object element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/object) [HTML `<object>` Tag](https://www.w3schools.com/tags/tag_object.asp)
 
+
+@nasa @nasa-jpl [SARP](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/earth-science-division/programmatic/sarp/1-group_2019.jpg?w=1024&h=684&fit=crop&crop=faces%2Cfocalpoint) in in [LATimES](https://ia801809.us.archive.org/19/items/image_20250428_2325/jobsandfirerecoverySimpleScanStation20250630135424.pdf#page=24)! 
+# About SARP
+The Student Airborne Research Program (SARP) is an eight-week summer internship for rising-senior undergraduates
+![SARP](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/earth-science-division/programmatic/sarp/1-group_2019.jpg?w=1024&h=684&fit=crop&crop=faces%2Cfocalpoint)
 <object data="https://ia801809.us.archive.org/19/items/image_20250428_2325/jobsandfirerecoverySimpleScanStation20250630135424.pdf" type="application/pdf" width="800" height="500"></object>
-   
+
+![Aviris](https://aviris.jpl.nasa.gov/images/aviris_text2.png)
+@cityoflosangeles rep karen, Sarp is flying over soon it in [LATimES](https://ia801809.us.archive.org/19/items/image_20250428_2325/jobsandfirerecoverySimpleScanStation20250630135424.pdf#page=24)! @stateofcalifornia @deptofdefense @boeing @usnavy @nasa @nasa-jpl
+
+![image](https://github.com/user-attachments/assets/c5ce3ea2-30a8-4a67-af58-9d8346cc72e0)
+
    
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VGA_1oftIsI?si=ZWsvfF2aciTQlhKP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
