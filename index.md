@@ -33,7 +33,8 @@ The Student Airborne Research Program (SARP) is an eight-week summer internship 
 
 ![image](https://github.com/user-attachments/assets/c5ce3ea2-30a8-4a67-af58-9d8346cc72e0)
 
-   
+   ![image](https://github.com/user-attachments/assets/f41b595f-f168-44c0-a1b8-f05388ad5f77)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VGA_1oftIsI?si=ZWsvfF2aciTQlhKP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### ERROR
