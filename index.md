@@ -6,6 +6,10 @@ mathjax: true
 `jekyll.version`  {{ jekyll.version }}
 
 
+[GamePro Issue 049 August 1993](https://archive.org/details/GamePro_Issue_049_August_1993/page/n5/mode/2up) [![Twitter Follow](https://img.shields.io/badge/Social-@neiltyson__-blue?style=social&logo=X)](https://twitter.com/@neiltyson)
+
+<object data="https://archive.org/download/GamePro_Issue_049_August_1993/GamePro_Issue_049_August_1993.pdf#page=7" type="application/pdf" width="800" height="700"></object>
+
 @nasa-jpl @ersi i like it [LongBeach](https://arcg.is/Ty4i91)
 ![image](https://github.com/user-attachments/assets/9a83fac5-f300-41cb-82fb-f9565e15d147)
 
