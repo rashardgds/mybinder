@@ -5,6 +5,11 @@ mathjax: true
 # Currently Compiling 
 `jekyll.version`  {{ jekyll.version }}
 
+
+@nasa-jpl @ersi i like it [LongBeach](https://www.arcgis.com/home/webscene/viewer.html?webscene=0281b25f75b24ca9b8835c6285cef9c2)
+![image](https://github.com/user-attachments/assets/9a83fac5-f300-41cb-82fb-f9565e15d147)
+
+
 [https://www.fabledcollective.com/category/dark-history/page/3/](https://www.fabledcollective.com/category/dark-history/page/3/) savannah history
 # Dear MAyor ([Karen Bass](https://www.kqed.org/news/11932548/karen-bass-wins-la-mayoral-race))
 [taken from ricothaka/civic](https://thakarashard.github.io/ricothaka/civic)
