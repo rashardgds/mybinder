@@ -5,6 +5,18 @@ mathjax: true
 # Currently Compiling 
 `jekyll.version`  {{ jekyll.version }}
 
+[Bonk 3](https://youtu.be/hTKg_VkTfvo?si=aA-0M9cyWyIccoTp): [Bonk's Big Adventure](https://youtu.be/UoHJ0BEQIsg?si=Dxeu7SjLAKpsq77i) ([Turbografx-16](https://youtu.be/wTumbFxnwNU?si=esoQ6QdRECdzSxIC))
+[Bonk III - Bonk's Big Adventure (USA)](https://www.retrogames.cc/turbografx16-games/bonk-iii-bonk-s-big-adventure-usa.html) [Wiki](https://en.wikipedia.org/wiki/Bonk_3:_Bonk%27s_Big_Adventure) [PC Genjin 3](http://www.videogameden.com/hucard.htm?pk3) [bonk](https://bonkzonk.com/) [B.C. Kid - Bonk's Adventure - Kyukyoku!! PC Genjin](https://archive.org/details/arcade_bonkadv)
+![image](https://github.com/user-attachments/assets/165ad677-3433-4f02-bfc8-9e2b827bc0ca)
+
+![image](https://github.com/user-attachments/assets/b47fe179-2ac9-4d0b-bf51-606955ed52d5)
+
+<object data="https://archive.org/embed/bonk3_tg16" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></object>
+
+[GamePro Issue 049 August 1993](https://archive.org/details/GamePro_Issue_049_August_1993/page/n5/mode/2up) [![Twitter Follow](https://img.shields.io/badge/Social-@neiltyson__-blue?style=social&logo=X)](https://twitter.com/@neiltyson)
+[Husband dies in major crash that shut down I-75/85 for hours in Midtown](https://www.atlantanewsfirst.com/2025/06/28/major-crash-shuts-down-i-85-hours-midtown/)
+
+<object data="https://archive.org/download/GamePro_Issue_049_August_1993/GamePro_Issue_049_August_1993.pdf#page=7" type="application/pdf" width="800" height="700"></object>
 
 @nasa-jpl @ersi i like it [LongBeach](https://arcg.is/Ty4i91)
 ![image](https://github.com/user-attachments/assets/9a83fac5-f300-41cb-82fb-f9565e15d147)
