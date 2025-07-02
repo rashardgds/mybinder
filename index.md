@@ -5,8 +5,13 @@ mathjax: true
 # Currently Compiling 
 `jekyll.version`  {{ jekyll.version }}
 
+Bonk 3: Bonk's Big Adventure ([Turbografx-16](https://youtu.be/wTumbFxnwNU?si=esoQ6QdRECdzSxIC))
+![image](https://github.com/user-attachments/assets/b47fe179-2ac9-4d0b-bf51-606955ed52d5)
+
+<object data="https://archive.org/embed/bonk3_tg16" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></object>
 
 [GamePro Issue 049 August 1993](https://archive.org/details/GamePro_Issue_049_August_1993/page/n5/mode/2up) [![Twitter Follow](https://img.shields.io/badge/Social-@neiltyson__-blue?style=social&logo=X)](https://twitter.com/@neiltyson)
+[Husband dies in major crash that shut down I-75/85 for hours in Midtown](https://www.atlantanewsfirst.com/2025/06/28/major-crash-shuts-down-i-85-hours-midtown/)
 
 <object data="https://archive.org/download/GamePro_Issue_049_August_1993/GamePro_Issue_049_August_1993.pdf#page=7" type="application/pdf" width="800" height="700"></object>
 
