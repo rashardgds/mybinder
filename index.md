@@ -5,6 +5,9 @@ mathjax: true
 # Currently Compiling 
 `jekyll.version`  {{ jekyll.version }}
 
+
+![july5](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png)
+
 [Bonk 3](https://youtu.be/hTKg_VkTfvo?si=aA-0M9cyWyIccoTp): [Bonk's Big Adventure](https://youtu.be/UoHJ0BEQIsg?si=Dxeu7SjLAKpsq77i) ([Turbografx-16](https://youtu.be/wTumbFxnwNU?si=esoQ6QdRECdzSxIC))
 [Bonk III - Bonk's Big Adventure (USA)](https://www.retrogames.cc/turbografx16-games/bonk-iii-bonk-s-big-adventure-usa.html) [Wiki](https://en.wikipedia.org/wiki/Bonk_3:_Bonk%27s_Big_Adventure) [PC Genjin 3](http://www.videogameden.com/hucard.htm?pk3) [bonk](https://bonkzonk.com/) [B.C. Kid - Bonk's Adventure - Kyukyoku!! PC Genjin](https://archive.org/details/arcade_bonkadv)
 ![image](https://github.com/user-attachments/assets/165ad677-3433-4f02-bfc8-9e2b827bc0ca)
