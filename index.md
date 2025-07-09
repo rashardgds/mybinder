@@ -5,6 +5,42 @@ mathjax: true
 # Currently Compiling 
 `jekyll.version`  {{ jekyll.version }}
 
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/787625417714630656" data-did="bcc936f1436f59c84aab2eee8833291294306588"><a href="https://rashardmro.tumblr.com/post/787625417714630656">https://rashardmro.tumblr.com/post/787625417714630656</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+
+[flyover](https://isstracker.pl/en) @nasa-jpl [![Twitter Follow](https://img.shields.io/badge/Social-@ISS_Research__-blue?style=social&logo=X)](https://twitter.com/ISS_Research)
+
+
+<iframe src="https://archive.org/embed/screen-20250708-213751" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+https://archive.org/embed/screen-20250708-213751
+
+
+[https://ode.rsl.wustl.edu/mars/](https://ode.rsl.wustl.edu/mars/)
+
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/786550940061827072" data-did="2055ce01bc73dbd75f37759710a76116f6790164"><a href="https://rashardmro.tumblr.com/post/786550940061827072">https://rashardmro.tumblr.com/post/786550940061827072</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+
+# California Linux :  [OutLook](https://youtu.be/xJLCSOBOEMI)/[Android](https://support.microsoft.com/en-us/topic/using-microsoft-launcher-on-android-c59f2824-0218-ae6d-3666-d93a7fc537e0) + the vortex of [traceroute](https://tile.loc.gov/storage-services/service/pnp/cph/3f00000/3f05000/3f05500/3f05525v.jpg) [
+
+
+<object data="https://archive.org/embed/screen-recording-2025-07-07-123028" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></object>
+[@Microsoft AndroidLAuncheriNACTiON @blackgirlscode @deptofdefense @whitehouse @cityoflosangeles @stateofcalifornia @LACMTA](https://ia800904.us.archive.org/14/items/screen-20250705-235856/screen-20250706-205654.mp4)
+
+<div class="tupperware">
+<video preload="auto" width="auto" height="400px" controls> 
+        <source src="https://ia600904.us.archive.org/14/items/screen-20250705-235856/screen-20250706-205654.mp4" type="video/mp4">         
+</video> 
+
+<video preload="auto" width="auto" height="400px" controls> 
+        <source src="https://ia800904.us.archive.org/14/items/screen-20250705-235856/VID_20250706_071024.ia.mp4" type="video/mp4">         
+</video> 
+
+<video preload="auto" width="auto" height="400px" controls> 
+        <source src="https://ia800904.us.archive.org/14/items/screen-20250705-235856/VID_20250706_223711.mp4" type="video/mp4">         
+</video> 
+</div>
+
+![july5](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png)
+
 [Horizons API](https://ssd-api.jpl.nasa.gov/doc/horizons.html)
 ![image](https://github.com/user-attachments/assets/baaa1d68-9dc5-402d-859f-ce365604fd02)
 
