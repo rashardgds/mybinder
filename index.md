@@ -56,8 +56,9 @@ C:\Users\terminal18>
 
 <img  alt="image" src="https://github.com/user-attachments/assets/dc60820a-bb78-46ca-a8d7-bf943822326e" />
 
+<img alt="image" src="https://github.com/user-attachments/assets/2501d95e-60fe-4894-b641-f51a7acb1bed" />
 
-<a href="" ><img  alt="image" src="https://github.com/user-attachments/assets/f4407a42-a975-4fe9-b596-977d2c27ef4b" /></a>
+<a href="https://ia600903.us.archive.org/26/items/vid-20250711-124929/1_adult_EntertainmentZoning_LOS_ANGELES.pdf" ><img  alt="image" src="https://github.com/user-attachments/assets/f4407a42-a975-4fe9-b596-977d2c27ef4b" /></a>
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/787625417714630656" data-did="bcc936f1436f59c84aab2eee8833291294306588"><a href="https://rashardmro.tumblr.com/post/787625417714630656">https://rashardmro.tumblr.com/post/787625417714630656</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
 
