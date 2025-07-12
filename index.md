@@ -5,6 +5,15 @@ mathjax: true
 # Currently Compiling 
 `jekyll.version`  {{ jekyll.version }}
 
+# Akira - Pioneer Dub
+[The two Akira dubs - different intended audiences? - r/Animedubs](https://www.reddit.com/r/Animedubs/comments/13508r2/the_two_akira_dubs_different_intended_audiences/) @nasa-jpl @podaac im still getting my head together after losing mybinder with my notes and documentation, however I want you guys to know that Erika is still somehow involved with @Blackgirlscode and i really dont know what im doing outside with her name, but her old boyfriends are bullying me because i like relationships, thats all i was into, they hang out in packs and share women, and erections never agrees with that lifestyle, they will cut off my peniss if i get too close, its a real issue in losangeles for men of [African Decent](http://www.leginfo.ca.gov/const-toc.html) [The history of how birthright citizenship started in California after an 1898 Supreme Court case](https://www.wvtm13.com/article/california-birthright-citizen-origins/63500272) So im going to watch Akira while i work...  [The Supreme Clothing line](https://us.supreme.com/pages/shop) has been borrowing for decades, we are on two differnt but similar clocks. In the world of [Graphic Design](https://www.handselecta.com/) but the fans have their own language. I think he is my peer but not sure if we are the same age... But The ATLiEN logo i did with [Muna](https://atlutd.exposure.co/behind-the-stripes-34) was based on an [Alife](https://www.takeflight214.com/single-post/what-happened-to-alife-the-rise-and-fall-of-a-streetwear-brand) ad. And on [12ozProphet](https://forum.12ozprophet.com/forum/6-brick-slayers/) we was all talking about making big growth with design because [our leaders](https://www.jerryinscoe.com/) had no [money](https://www.sandboxautomatic.com/)! They had to get real jobs! And Hiphop as just a [pub](https://www.fatbeats.com/?srsltid=AfmBOop_PnUKmfbR5_S_GSqOnaafahKTB9SZ6NtdmNp4lTQa7kV5q7Pu) 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/78fc3c92-ee8b-4768-b85c-dc5ef7d15a98" />
+
+<img width="1919" height="652" alt="image" src="https://github.com/user-attachments/assets/dc60820a-bb78-46ca-a8d7-bf943822326e" />
+
+
+<a href="" ><img  alt="image" src="https://github.com/user-attachments/assets/f4407a42-a975-4fe9-b596-977d2c27ef4b" /></a>
+
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/787625417714630656" data-did="bcc936f1436f59c84aab2eee8833291294306588"><a href="https://rashardmro.tumblr.com/post/787625417714630656">https://rashardmro.tumblr.com/post/787625417714630656</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
 
 [flyover](https://isstracker.pl/en) @nasa-jpl [![Twitter Follow](https://img.shields.io/badge/Social-@ISS_Research__-blue?style=social&logo=X)](https://twitter.com/ISS_Research)
