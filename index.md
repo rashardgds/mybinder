@@ -5,6 +5,27 @@ mathjax: true
 # Currently Compiling 
 `jekyll.version`  {{ jekyll.version }}
 
+
+
+# Akira - Pioneer Dub
+
+![Pioneer](https://upload.wikimedia.org/wikipedia/commons/b/b1/Pioneer_logo.svg)
+[What does it mean if a movie is dubbed in English? - quora.com](https://www.quora.com/What-does-it-mean-if-a-movie-is-dubbed-in-English)
+[The two Akira dubs - different intended audiences? - r/Animedubs](https://www.reddit.com/r/Animedubs/comments/13508r2/the_two_akira_dubs_different_intended_audiences/) [Akira Subtitles opensubtitles.org](https://www.opensubtitles.org/en/search/sublanguageid-all/idmovie-197) + [Adding captions and subtitles to HTML video](https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Audio_and_video_delivery/Adding_captions_and_subtitles_to_HTML5_video)
+
+<object data="https://archive.org/embed/akira_20230402" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></object>
+
+@nasa-jpl @podaac im still getting my head together after losing mybinder with my notes and documentation, however I want you guys to know that Erika is still somehow involved with @Blackgirlscode and i really dont know what im doing outside with her name, but her old boyfriends are bullying me because i like relationships, thats all i was into, they hang out in packs and share women, and erections never agrees with that lifestyle, they will cut off my peniss if i get too close, its a real issue in losangeles for men of [African Decent](http://www.leginfo.ca.gov/const-toc.html) [The history of how birthright citizenship started in California after an 1898 Supreme Court case](https://www.wvtm13.com/article/california-birthright-citizen-origins/63500272) So im going to watch Akira while i work...  [The Supreme Clothing line](https://us.supreme.com/pages/shop) has been borrowing for decades, we are on two differnt but similar clocks. In the world of [Graphic Design](https://www.handselecta.com/) but the fans have their own language. I think he is my peer but not sure if we are the same age... But The ATLiEN logo i did with [Muna](https://atlutd.exposure.co/behind-the-stripes-34) was based on an [Alife](https://www.takeflight214.com/single-post/what-happened-to-alife-the-rise-and-fall-of-a-streetwear-brand) ad. And on [12ozProphet](https://forum.12ozprophet.com/forum/6-brick-slayers/) we was all talking about making big growth with design because [our leaders](https://www.jerryinscoe.com/) had no [money](https://www.sandboxautomatic.com/)! They had to get real jobs! And Hiphop as just a [pub](https://www.fatbeats.com/?srsltid=AfmBOop_PnUKmfbR5_S_GSqOnaafahKTB9SZ6NtdmNp4lTQa7kV5q7Pu) So While io dig into data and work on my reports for [Earthdata](https://earthobservatory.nasa.gov/) Imma see how this [Pioneer](https://global.pioneer/en/) [Dub]() sound to me. back to the [Supreme fans](https://supreme.com/news/687/images?=1)... ITs like bounty they might not be attached to the real movement @whitehouse you gotta talk to [Tyler The Creator](https://youtu.be/9f5zD7ZSNpQ?si=ru0GsHUvBUPOAMNl) and Pusha T they know more than me [@nasa @nasa-jpl @blackgirlscode @podaac](https://www.latimes.com/business/story/2025-06-14/after-ambiance-apparel-raid-fashion-district-businesses-workers-wait-in-fear) it is a big puzzle peice in @CityOfLosAngeles crime [and](https://scalawagmagazine.org/2023/06/sagging-rap-police/) sadness [Pusha T - DAYTONA (Full Album)](https://youtu.be/jx0wV5n2hJo?si=rcPc3O58Y7a0Oi2Y)
+<img  alt="image" src="https://github.com/user-attachments/assets/78fc3c92-ee8b-4768-b85c-dc5ef7d15a98" />
+<img  alt="image" src="https://github.com/user-attachments/assets/0f6e0b06-294e-412f-87b1-366ac36f9e3c" />
+<img  alt="image" src="https://github.com/user-attachments/assets/961ab0df-32dd-4157-ab83-396e07d2b5f6" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/dc60820a-bb78-46ca-a8d7-bf943822326e" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/2501d95e-60fe-4894-b641-f51a7acb1bed" />
+<img alt="image" src="https://github.com/user-attachments/assets/95a2a3a5-0039-4dca-b8f2-f06d10e5291b" />
+
+
 # https://www.massappeal.com/
 
 ![MassAppeal](https://www.massappeal.com/assets/mass-appeal-E_avwb3r.svg)
@@ -40,24 +61,6 @@ Trace complete.
 
 C:\Users\terminal18>
 ```
-
-# Akira - Pioneer Dub
-
-![Pioneer](https://upload.wikimedia.org/wikipedia/commons/b/b1/Pioneer_logo.svg)
-[What does it mean if a movie is dubbed in English? - quora.com](https://www.quora.com/What-does-it-mean-if-a-movie-is-dubbed-in-English)
-[The two Akira dubs - different intended audiences? - r/Animedubs](https://www.reddit.com/r/Animedubs/comments/13508r2/the_two_akira_dubs_different_intended_audiences/)
-
-<object data="https://archive.org/embed/akira_20230402" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></object>
-
-@nasa-jpl @podaac im still getting my head together after losing mybinder with my notes and documentation, however I want you guys to know that Erika is still somehow involved with @Blackgirlscode and i really dont know what im doing outside with her name, but her old boyfriends are bullying me because i like relationships, thats all i was into, they hang out in packs and share women, and erections never agrees with that lifestyle, they will cut off my peniss if i get too close, its a real issue in losangeles for men of [African Decent](http://www.leginfo.ca.gov/const-toc.html) [The history of how birthright citizenship started in California after an 1898 Supreme Court case](https://www.wvtm13.com/article/california-birthright-citizen-origins/63500272) So im going to watch Akira while i work...  [The Supreme Clothing line](https://us.supreme.com/pages/shop) has been borrowing for decades, we are on two differnt but similar clocks. In the world of [Graphic Design](https://www.handselecta.com/) but the fans have their own language. I think he is my peer but not sure if we are the same age... But The ATLiEN logo i did with [Muna](https://atlutd.exposure.co/behind-the-stripes-34) was based on an [Alife](https://www.takeflight214.com/single-post/what-happened-to-alife-the-rise-and-fall-of-a-streetwear-brand) ad. And on [12ozProphet](https://forum.12ozprophet.com/forum/6-brick-slayers/) we was all talking about making big growth with design because [our leaders](https://www.jerryinscoe.com/) had no [money](https://www.sandboxautomatic.com/)! They had to get real jobs! And Hiphop as just a [pub](https://www.fatbeats.com/?srsltid=AfmBOop_PnUKmfbR5_S_GSqOnaafahKTB9SZ6NtdmNp4lTQa7kV5q7Pu) So While io dig into data and work on my reports for [Earthdata](https://earthobservatory.nasa.gov/) Imma see how this [Pioneer](https://global.pioneer/en/) [Dub]() sound to me. back to the [Supreme fans](https://supreme.com/news/687/images?=1)... ITs like bounty they might not be attached to the real movement @whitehouse you gotta talk to [Tyler The Creator](https://youtu.be/9f5zD7ZSNpQ?si=ru0GsHUvBUPOAMNl) and Pusha T they know more than me [@nasa @nasa-jpl @blackgirlscode @podaac](https://www.latimes.com/business/story/2025-06-14/after-ambiance-apparel-raid-fashion-district-businesses-workers-wait-in-fear) it is a big puzzle peice in @CityOfLosAngeles crime [and](https://scalawagmagazine.org/2023/06/sagging-rap-police/) sadness [Pusha T - DAYTONA (Full Album)](https://youtu.be/jx0wV5n2hJo?si=rcPc3O58Y7a0Oi2Y)
-<img  alt="image" src="https://github.com/user-attachments/assets/78fc3c92-ee8b-4768-b85c-dc5ef7d15a98" />
-<img  alt="image" src="https://github.com/user-attachments/assets/0f6e0b06-294e-412f-87b1-366ac36f9e3c" />
-<img  alt="image" src="https://github.com/user-attachments/assets/961ab0df-32dd-4157-ab83-396e07d2b5f6" />
-
-<img  alt="image" src="https://github.com/user-attachments/assets/dc60820a-bb78-46ca-a8d7-bf943822326e" />
-
-<img alt="image" src="https://github.com/user-attachments/assets/2501d95e-60fe-4894-b641-f51a7acb1bed" />
-<img alt="image" src="https://github.com/user-attachments/assets/95a2a3a5-0039-4dca-b8f2-f06d10e5291b" />
 
 <a href="https://ia600903.us.archive.org/26/items/vid-20250711-124929/1_adult_EntertainmentZoning_LOS_ANGELES.pdf" ><img  alt="image" src="https://github.com/user-attachments/assets/f4407a42-a975-4fe9-b596-977d2c27ef4b" /></a>
 
