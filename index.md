@@ -13,6 +13,31 @@ mathjax: true
 [The two Akira dubs - different intended audiences? - r/Animedubs](https://www.reddit.com/r/Animedubs/comments/13508r2/the_two_akira_dubs_different_intended_audiences/) [Akira Subtitles opensubtitles.org](https://www.opensubtitles.org/en/search/sublanguageid-all/idmovie-197) + [Adding captions and subtitles to HTML video](https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Audio_and_video_delivery/Adding_captions_and_subtitles_to_HTML5_video) +  For LateR [What is a VTT file? March 1, 2022 / by Niall Curran ](https://www.simultrans.com/blog/what-is-a-vtt-file)  [Web Video Text Tracks Format (WebVTT)](https://developer.mozilla.org/en-US/docs/Web/API/WebVTT_API/Web_Video_Text_Tracks_Format) [RoujinZ=TESTFile](https://dn720409.ca.archive.org/0/items/roujin.-z.-1991.1080p.-blu-ray.x-264-skazhutin/Roujin.Z.1991.1080p.BluRay.x264-Skazhutin.mp4) [SubTitleFiles](https://github.com/rashardci/compiling/tree/master/assets)
 
 <object data="https://archive.org/embed/akira_20230402" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></object>
+```html
+<video width='200' controls preload="metadata">
+  <source src="https://dn720409.ca.archive.org/0/items/roujin.-z.-1991.1080p.-blu-ray.x-264-skazhutin/Roujin.Z.1991.1080p.BluRay.x264-Skazhutin.mp4" type="video/mp4" />
+
+  <track
+    label="English"
+    kind="subtitles"
+    srclang="en"
+    src="https://raw.githubusercontent.com/rashardci/compiling/refs/heads/master/assets/Roujin.Z.1991.720p.BluRay.x264.eng.vtt"
+    default />
+
+</video>
+```
+
+<video width='250' controls preload="lazy" poster="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFMw9-_ZGrP5zqQiCmPJ8T7kAXk9Y8K6hB96673rlKQJsy8euHCEV6SqY_qxXss_1-rDaOvXfxgoyuKF9RWQz6KSkHS7VJ4HTl5EtHMHquKr8PWoXp3QOv1v_Fm5hcTCBq6D9I5oNk8GYz/s1600/1-2.jpg">
+  <source src="https://dn720409.ca.archive.org/0/items/roujin.-z.-1991.1080p.-blu-ray.x-264-skazhutin/Roujin.Z.1991.1080p.BluRay.x264-Skazhutin.mp4" type="video/mp4" />
+
+  <track
+    label="English"
+    kind="subtitles"
+    srclang="en"
+    src="https://raw.githubusercontent.com/rashardci/compiling/refs/heads/master/assets/Roujin.Z.1991.720p.BluRay.x264.eng.vtt"
+    default />
+
+</video>
 
 @nasa-jpl @podaac im still getting my head together after losing mybinder with my notes and documentation, however I want you guys to know that Erika is still somehow involved with @Blackgirlscode and i really dont know what im doing outside with her name, but her old boyfriends are bullying me because i like relationships, thats all i was into, they hang out in packs and share women, and erections never agrees with that lifestyle, they will cut off my peniss if i get too close, its a real issue in losangeles for men of [African Decent](http://www.leginfo.ca.gov/const-toc.html) [The history of how birthright citizenship started in California after an 1898 Supreme Court case](https://www.wvtm13.com/article/california-birthright-citizen-origins/63500272) So im going to watch Akira while i work...  [The Supreme Clothing line](https://us.supreme.com/pages/shop) has been borrowing for decades, we are on two differnt but similar clocks. In the world of [Graphic Design](https://www.handselecta.com/) but the fans have their own language. I think he is my peer but not sure if we are the same age... But The ATLiEN logo i did with [Muna](https://atlutd.exposure.co/behind-the-stripes-34) was based on an [Alife](https://www.takeflight214.com/single-post/what-happened-to-alife-the-rise-and-fall-of-a-streetwear-brand) ad. And on [12ozProphet](https://forum.12ozprophet.com/forum/6-brick-slayers/) we was all talking about making big growth with design because [our leaders](https://www.jerryinscoe.com/) had no [money](https://www.sandboxautomatic.com/)! They had to get real jobs! And Hiphop as just a [pub](https://www.fatbeats.com/?srsltid=AfmBOop_PnUKmfbR5_S_GSqOnaafahKTB9SZ6NtdmNp4lTQa7kV5q7Pu) So While io dig into data and work on my reports for [Earthdata](https://earthobservatory.nasa.gov/) Imma see how this [Pioneer](https://global.pioneer/en/) [Dub]() sound to me. back to the [Supreme fans](https://supreme.com/news/687/images?=1)... ITs like bounty they might not be attached to the real movement @whitehouse you gotta talk to [Tyler The Creator](https://youtu.be/9f5zD7ZSNpQ?si=ru0GsHUvBUPOAMNl) and Pusha T they know more than me [@nasa @nasa-jpl @blackgirlscode @podaac](https://www.latimes.com/business/story/2025-06-14/after-ambiance-apparel-raid-fashion-district-businesses-workers-wait-in-fear) it is a big puzzle peice in @CityOfLosAngeles crime [and](https://scalawagmagazine.org/2023/06/sagging-rap-police/) sadness [Pusha T - DAYTONA (Full Album)](https://youtu.be/jx0wV5n2hJo?si=rcPc3O58Y7a0Oi2Y)
 <img  alt="image" src="https://github.com/user-attachments/assets/78fc3c92-ee8b-4768-b85c-dc5ef7d15a98" />
