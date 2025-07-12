@@ -5,6 +5,59 @@ mathjax: true
 # Currently Compiling 
 `jekyll.version`  {{ jekyll.version }}
 
+# https://www.massappeal.com/
+
+![MassAppeal](https://www.massappeal.com/assets/mass-appeal-E_avwb3r.svg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2GKL_ZoJQjc?si=fjT1epQgDDXmXuEK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+```shell
+Microsoft Windows [Version 10.0.22621.3880]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\terminal18>tracert https://www.massappeal.com/
+Unable to resolve target system name https://www.massappeal.com/.
+
+C:\Users\terminal18>tracert massappeal.com/
+Unable to resolve target system name massappeal.com/.
+
+C:\Users\terminal18>tracert massappeal.com
+
+Tracing route to massappeal.com [75.2.60.5]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  my.meraki.net [192.168.168.1]
+  2     1 ms    <1 ms    <1 ms  lib-06-subnet-65.rdns.cenic.net [205.155.237.65]
+  3     3 ms     3 ms     3 ms  tust1-agg-01--spsdlib-cpe-01--1g--01.cenic.net [137.164.7.154]
+  4     4 ms     5 ms     4 ms  losa4-agg-01--tust1-agg-01--800g--01.cenic.net [137.164.11.82]
+  5     *        *        *     Request timed out.
+  6     *        *        *     Request timed out.
+  7     4 ms     5 ms     4 ms  15.230.186.134
+  8     6 ms     5 ms     5 ms  15.230.186.135
+  9     4 ms     4 ms     4 ms  acd89244c803f7181.awsglobalaccelerator.com [75.2.60.5]
+
+Trace complete.
+
+C:\Users\terminal18>
+```
+
+# Akira - Pioneer Dub
+
+![Pioneer](https://upload.wikimedia.org/wikipedia/commons/b/b1/Pioneer_logo.svg)
+[What does it mean if a movie is dubbed in English? - quora.com](https://www.quora.com/What-does-it-mean-if-a-movie-is-dubbed-in-English)
+[The two Akira dubs - different intended audiences? - r/Animedubs](https://www.reddit.com/r/Animedubs/comments/13508r2/the_two_akira_dubs_different_intended_audiences/)
+
+<object data="https://archive.org/embed/akira_20230402" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></object>
+
+@nasa-jpl @podaac im still getting my head together after losing mybinder with my notes and documentation, however I want you guys to know that Erika is still somehow involved with @Blackgirlscode and i really dont know what im doing outside with her name, but her old boyfriends are bullying me because i like relationships, thats all i was into, they hang out in packs and share women, and erections never agrees with that lifestyle, they will cut off my peniss if i get too close, its a real issue in losangeles for men of [African Decent](http://www.leginfo.ca.gov/const-toc.html) [The history of how birthright citizenship started in California after an 1898 Supreme Court case](https://www.wvtm13.com/article/california-birthright-citizen-origins/63500272) So im going to watch Akira while i work...  [The Supreme Clothing line](https://us.supreme.com/pages/shop) has been borrowing for decades, we are on two differnt but similar clocks. In the world of [Graphic Design](https://www.handselecta.com/) but the fans have their own language. I think he is my peer but not sure if we are the same age... But The ATLiEN logo i did with [Muna](https://atlutd.exposure.co/behind-the-stripes-34) was based on an [Alife](https://www.takeflight214.com/single-post/what-happened-to-alife-the-rise-and-fall-of-a-streetwear-brand) ad. And on [12ozProphet](https://forum.12ozprophet.com/forum/6-brick-slayers/) we was all talking about making big growth with design because [our leaders](https://www.jerryinscoe.com/) had no [money](https://www.sandboxautomatic.com/)! They had to get real jobs! And Hiphop as just a [pub](https://www.fatbeats.com/?srsltid=AfmBOop_PnUKmfbR5_S_GSqOnaafahKTB9SZ6NtdmNp4lTQa7kV5q7Pu) So While io dig into data and work on my reports for [Earthdata](https://earthobservatory.nasa.gov/) Imma see how this [Pioneer](https://global.pioneer/en/) [Dub]() sound to me. back to the [Supreme fans](https://supreme.com/news/687/images?=1)... ITs like bounty they might not be attached to the real movement @whitehouse you gotta talk to [Tyler The Creator](https://youtu.be/9f5zD7ZSNpQ?si=ru0GsHUvBUPOAMNl) and Pusha T they know more than me [@nasa @nasa-jpl @blackgirlscode @podaac](https://www.latimes.com/business/story/2025-06-14/after-ambiance-apparel-raid-fashion-district-businesses-workers-wait-in-fear) it is a big puzzle peice in @CityOfLosAngeles crime [and](https://scalawagmagazine.org/2023/06/sagging-rap-police/) sadness [Pusha T - DAYTONA (Full Album)](https://youtu.be/jx0wV5n2hJo?si=rcPc3O58Y7a0Oi2Y)
+<img  alt="image" src="https://github.com/user-attachments/assets/78fc3c92-ee8b-4768-b85c-dc5ef7d15a98" />
+<img width="1919" height="784" alt="image" src="https://github.com/user-attachments/assets/0f6e0b06-294e-412f-87b1-366ac36f9e3c" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/dc60820a-bb78-46ca-a8d7-bf943822326e" />
+
+
+<a href="" ><img  alt="image" src="https://github.com/user-attachments/assets/f4407a42-a975-4fe9-b596-977d2c27ef4b" /></a>
+
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/787625417714630656" data-did="bcc936f1436f59c84aab2eee8833291294306588"><a href="https://rashardmro.tumblr.com/post/787625417714630656">https://rashardmro.tumblr.com/post/787625417714630656</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
 
 [flyover](https://isstracker.pl/en) @nasa-jpl [![Twitter Follow](https://img.shields.io/badge/Social-@ISS_Research__-blue?style=social&logo=X)](https://twitter.com/ISS_Research)
