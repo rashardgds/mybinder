@@ -4,7 +4,11 @@ mathjax: true
 ---
 # Currently Compiling 
 `jekyll.version`  {{ jekyll.version }}
+
 # https://www.massappeal.com/
+
+![MassAppeal](https://www.massappeal.com/assets/mass-appeal-E_avwb3r.svg)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2GKL_ZoJQjc?si=fjT1epQgDDXmXuEK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ```shell
