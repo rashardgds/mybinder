@@ -6,13 +6,11 @@ mathjax: true
 `jekyll.version`  {{ jekyll.version }}
 
 
-# For Later
-[What is a VTT file? March 1, 2022 / by Niall Curran ](https://www.simultrans.com/blog/what-is-a-vtt-file)
 # Akira - Pioneer Dub
 
 ![Pioneer](https://upload.wikimedia.org/wikipedia/commons/b/b1/Pioneer_logo.svg)
 [What does it mean if a movie is dubbed in English? - quora.com](https://www.quora.com/What-does-it-mean-if-a-movie-is-dubbed-in-English)
-[The two Akira dubs - different intended audiences? - r/Animedubs](https://www.reddit.com/r/Animedubs/comments/13508r2/the_two_akira_dubs_different_intended_audiences/) [Akira Subtitles opensubtitles.org](https://www.opensubtitles.org/en/search/sublanguageid-all/idmovie-197) + [Adding captions and subtitles to HTML video](https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Audio_and_video_delivery/Adding_captions_and_subtitles_to_HTML5_video)
+[The two Akira dubs - different intended audiences? - r/Animedubs](https://www.reddit.com/r/Animedubs/comments/13508r2/the_two_akira_dubs_different_intended_audiences/) [Akira Subtitles opensubtitles.org](https://www.opensubtitles.org/en/search/sublanguageid-all/idmovie-197) + [Adding captions and subtitles to HTML video](https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Audio_and_video_delivery/Adding_captions_and_subtitles_to_HTML5_video) +  For LateR [What is a VTT file? March 1, 2022 / by Niall Curran ](https://www.simultrans.com/blog/what-is-a-vtt-file)  [Web Video Text Tracks Format (WebVTT)](https://developer.mozilla.org/en-US/docs/Web/API/WebVTT_API/Web_Video_Text_Tracks_Format) [RoujinZ=TESTFile](https://dn720409.ca.archive.org/0/items/roujin.-z.-1991.1080p.-blu-ray.x-264-skazhutin/Roujin.Z.1991.1080p.BluRay.x264-Skazhutin.mp4) [SubTitleFiles](https://github.com/rashardci/compiling/tree/master/assets)
 
 <object data="https://archive.org/embed/akira_20230402" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></object>
 
